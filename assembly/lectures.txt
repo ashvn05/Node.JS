@@ -1,0 +1,15 @@
+javascript/python 
+       |
+       |
+       v
+     C/C++
+       |
+       |
+       v
+Assembly Language
+       |
+       |
+       v
+Machine Code
+
+
